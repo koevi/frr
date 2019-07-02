@@ -299,6 +299,11 @@ Route Map Set Command
 .. clicmd:: set origin ORIGIN <egp|igp|incomplete>
 
    Set BGP route origin.
+   
+.. index:: set src <ip>
+.. clicmd:: set src <ip>
+
+   Set the source ip for originating packets
 
 .. _route-map-call-command:
 
